@@ -1,0 +1,40 @@
+classe
+    o que é classe
+    como criar uma classe
+    o que é uma instancia
+    como instanciar uma classe
+
+atributos e metodos
+    o que é
+    como definir
+    como acessar
+    escopos
+
+self
+    o que é 
+    pra q serve
+
+encapsulamento
+    o que é
+    pra q serve
+    uso do decorador
+        o que é um decorador
+        como funciona
+    uso do @property
+    como fazer
+
+herança
+    o que é
+    como fazer
+    sobrescrição de metodos
+    herança multipla
+
+polimorfismo
+    o que é
+    pra q serve
+    como fazer
+
+abstração
+    o que é
+    pra que serve
+    como fazer
