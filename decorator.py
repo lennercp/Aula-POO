@@ -23,16 +23,16 @@ def main():
 # Executa a função main
 main()
 
-def party():
-    print("Estou de fora =[")
+# def party():
+#     print("Estou de fora =[")
 
-    def start_party():
-        return "Estamos dentro! Uhullll!"
+#     def start_party():
+#         return "Estamos dentro! Uhullll!"
 
-    def finish_party():
-        return "A festa acabou! =["
+#     def finish_party():
+#         return "A festa acabou! =["
 
-    print(start_party())
-    print(finish_party())
+#     print(start_party())
+#     print(finish_party())
 
-party()
+# party()
