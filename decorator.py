@@ -20,6 +20,9 @@ def main():
     for n in range(0, 10000000):
         pass
 
+funcao_decorada = calcula_duracao(main())
+funcao_decorada()
+
 # Executa a função main
 main()
 

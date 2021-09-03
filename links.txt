@@ -3,3 +3,4 @@ https://pythonacademy.com.br/blog/domine-decorators-em-python
 
 paradigmas da POO:
 https://www.youtube.com/watch?v=qiGTRJlCnlA
+https://www.youtube.com/watch?v=XBUR-XdC1xs

@@ -11,4 +11,24 @@ class Pessoa(ABC):
     def assinar(self):
         pass
 
-p1 = Pessoa('lenner', 17, 1.7)
+class Aluno(Pessoa):
+    def __init__(self, notas):
+        self.notas = notas
+
+    def assinar(self):
+        self.assinar = 'lista de presença'
+
+class Professor(Pessoa):
+    def __init__(self, graduacao, disciplina):
+        self.graduacao = graduacao
+        self.disciplina = disciplina
+
+    def assinar(self):
+        self.assinar = 'horario de aulas'
+
+class Diretora(Pessoa):
+    def __init__(self, graduacao):
+        self.graduacao = graduacao
+    
+    def assinar(self):
+        self.assinar = 'compra de materiais'
